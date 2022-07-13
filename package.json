@@ -1,0 +1,24 @@
+{
+	"name": "expressjspractice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Prashant-SL/expressjspractice.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Prashant-SL/expressjspractice/issues"
+	},
+	"homepage": "https://github.com/Prashant-SL/expressjspractice#readme",
+	"dependencies": {
+		"express": "^4.18.1",
+		"nodemon": "^2.0.19"
+	}
+}
